@@ -1,2 +1,3 @@
-# more-kure-staveni
-do pul pici
+More Kure Staveni
+
+hovnoprdel sracka toje nase znacka
